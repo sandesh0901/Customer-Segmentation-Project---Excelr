@@ -1,0 +1,32 @@
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to false.
+
+2026-10-13 17:24:43.080 Uvicorn server started on :::8501
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8501
+  Network URL: http://172.28.0.12:8501
+  External URL: http://34.150.195.78:8501
+
+2026-10-13 17:28:08.370 Rejecting WebSocket connection with disallowed Origin or Host header: origin=https://8501-m-s-kkb-use4b0-2xm0lsdurcczo-b.us-east4-0.prod.colab.dev, host=m-s-kkb-use4b0-2xm0lsdurcczo.us-east4-b.c.codatalab-user-runtimes.internal:8007
+2026-10-13 17:28:10.816 Rejecting WebSocket connection with disallowed Origin or Host header: origin=https://8501-m-s-kkb-use4b0-2xm0lsdurcczo-b.us-east4-0.prod.colab.dev, host=m-s-kkb-use4b0-2xm0lsdurcczo.us-east4-b.c.codatalab-user-runtimes.internal:8007
+2026-10-13 17:28:14.841 Rejecting WebSocket connection with disallowed Origin or Host header: origin=https://8501-m-s-kkb-use4b0-2xm0lsdurcczo-b.us-east4-0.prod.colab.dev, host=m-s-kkb-use4b0-2xm0lsdurcczo.us-east4-b.c.codatalab-user-runtimes.internal:8007
+2026-10-13 17:28:19.843 Rejecting WebSocket connection with disallowed Origin or Host header: origin=https://8501-m-s-kkb-use4b0-2xm0lsdurcczo-b.us-east4-0.prod.colab.dev, host=m-s-kkb-use4b0-2xm0lsdurcczo.us-east4-b.c.codatalab-user-runtimes.internal:8007
+2026-10-13 17:28:24.119 Rejecting WebSocket connection with disallowed Origin or Host header: origin=https://8501-m-s-kkb-use4b0-2xm0lsdurcczo-b.us-east4-0.prod.colab.dev, host=m-s-kkb-use4b0-2xm0lsdurcczo.us-east4-b.c.codatalab-user-runtimes.internal:8007
+2026-10-13 17:28:28.175 Rejecting WebSocket connection with disallowed Origin or Host header: origin=https://8501-m-s-kkb-use4b0-2xm0lsdurcczo-b.us-east4-0.prod.colab.dev, host=m-s-kkb-use4b0-2xm0lsdurcczo.us-east4-b.c.codatalab-user-runtimes.internal:8007
+2026-10-13 17:28:32.584 Rejecting WebSocket connection with disallowed Origin or Host header: origin=https://8501-m-s-kkb-use4b0-2xm0lsdurcczo-b.us-east4-0.prod.colab.dev, host=m-s-kkb-use4b0-2xm0lsdurcczo.us-east4-b.c.codatalab-user-runtimes.internal:8007
+2026-10-13 17:28:42.503 Rejecting WebSocket connection with disallowed Origin or Host header: origin=https://8501-m-s-kkb-use4b0-2xm0lsdurcczo-b.us-east4-0.prod.colab.dev, host=m-s-kkb-use4b0-2xm0lsdurcczo.us-east4-b.c.codatalab-user-runtimes.internal:8007
+2026-10-13 17:28:47.937 Rejecting WebSocket connection with disallowed Origin or Host header: origin=https://8501-m-s-kkb-use4b0-2xm0lsdurcczo-b.us-east4-0.prod.colab.dev, host=m-s-kkb-use4b0-2xm0lsdurcczo.us-east4-b.c.codatalab-user-runtimes.internal:8007
+2026-10-13 17:28:54.057 Rejecting WebSocket connection with disallowed Origin or Host header: origin=https://8501-m-s-kkb-use4b0-2xm0lsdurcczo-b.us-east4-0.prod.colab.dev, host=m-s-kkb-use4b0-2xm0lsdurcczo.us-east4-b.c.codatalab-user-runtimes.internal:8007
+2026-10-13 17:28:58.863 Rejecting WebSocket connection with disallowed Origin or Host header: origin=https://8501-m-s-kkb-use4b0-2xm0lsdurcczo-b.us-east4-0.prod.colab.dev, host=m-s-kkb-use4b0-2xm0lsdurcczo.us-east4-b.c.codatalab-user-runtimes.internal:8007
+2026-10-13 17:29:04.133 Rejecting WebSocket connection with disallowed Origin or Host header: origin=https://8501-m-s-kkb-use4b0-2xm0lsdurcczo-b.us-east4-0.prod.colab.dev, host=m-s-kkb-use4b0-2xm0lsdurcczo.us-east4-b.c.codatalab-user-runtimes.internal:8007
+2026-10-13 17:29:09.008 Rejecting WebSocket connection with disallowed Origin or Host header: origin=https://8501-m-s-kkb-use4b0-2xm0lsdurcczo-b.us-east4-0.prod.colab.dev, host=m-s-kkb-use4b0-2xm0lsdurcczo.us-east4-b.c.codatalab-user-runtimes.internal:8007
+2026-10-13 17:29:17.997 Rejecting WebSocket connection with disallowed Origin or Host header: origin=https://8501-m-s-kkb-use4b0-2xm0lsdurcczo-b.us-east4-0.prod.colab.dev, host=m-s-kkb-use4b0-2xm0lsdurcczo.us-east4-b.c.codatalab-user-runtimes.internal:8007
+2026-10-13 17:29:23.008 Rejecting WebSocket connection with disallowed Origin or Host header: origin=https://8501-m-s-kkb-use4b0-2xm0lsdurcczo-b.us-east4-0.prod.colab.dev, host=m-s-kkb-use4b0-2xm0lsdurcczo.us-east4-b.c.codatalab-user-runtimes.internal:8007
+2026-10-13 17:29:40.186 Rejecting WebSocket connection with disallowed Origin or Host header: origin=https://8501-m-s-kkb-use4b0-2xm0lsdurcczo-b.us-east4-0.prod.colab.dev, host=m-s-kkb-use4b0-2xm0lsdurcczo.us-east4-b.c.codatalab-user-runtimes.internal:8007
+2026-10-13 17:29:41.657 Rejecting WebSocket connection with disallowed Origin or Host header: origin=https://8501-m-s-kkb-use4b0-2xm0lsdurcczo-b.us-east4-0.prod.colab.dev, host=m-s-kkb-use4b0-2xm0lsdurcczo.us-east4-b.c.codatalab-user-runtimes.internal:8007
+2026-10-13 17:29:45.813 Rejecting WebSocket connection with disallowed Origin or Host header: origin=https://8501-m-s-kkb-use4b0-2xm0lsdurcczo-b.us-east4-0.prod.colab.dev, host=m-s-kkb-use4b0-2xm0lsdurcczo.us-east4-b.c.codatalab-user-runtimes.internal:8007
+2026-10-13 17:29:49.691 Rejecting WebSocket connection with disallowed Origin or Host header: origin=https://8501-m-s-kkb-use4b0-2xm0lsdurcczo-b.us-east4-0.prod.colab.dev, host=m-s-kkb-use4b0-2xm0lsdurcczo.us-east4-b.c.codatalab-user-runtimes.internal:8007
+2026-10-13 17:29:54.638 Rejecting WebSocket connection with disallowed Origin or Host header: origin=https://8501-m-s-kkb-use4b0-2xm0lsdurcczo-b.us-east4-0.prod.colab.dev, host=m-s-kkb-use4b0-2xm0lsdurcczo.us-east4-b.c.codatalab-user-runtimes.internal:8007
+2026-10-13 17:29:59.734 Rejecting WebSocket connection with disallowed Origin or Host header: origin=https://8501-m-s-kkb-use4b0-2xm0lsdurcczo-b.us-east4-0.prod.colab.dev, host=m-s-kkb-use4b0-2xm0lsdurcczo.us-east4-b.c.codatalab-user-runtimes.internal:8007
